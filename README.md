@@ -1,4 +1,4 @@
-#Titanic_Data_Analysis
+# Titanic_Data_Analysis
 This is simple data analysis project using the Titanic Dataset. It marks the completion of my **Month 1** in my self-guided 3-month Machine Learning Career Path.
 
 ## 🔍 Dataset
