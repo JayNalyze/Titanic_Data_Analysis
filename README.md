@@ -1,5 +1,4 @@
-# <img width="154" height="148" alt="image" src="https://github.com/user-attachments/assets/c77c8add-29e5-4dc4-8893-5060c0f4e93f" />
-Titanic_Data_Analysis
+#Titanic_Data_Analysis
 This is simple data analysis project using the Titanic Dataset. It marks the completion of my **Month 1** in my self-guided 3-month Machine Learning Career Path.
 
 ## 🔍 Dataset
